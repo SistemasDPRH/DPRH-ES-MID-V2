@@ -5,10 +5,15 @@ from reportlab.lib.styles import getSampleStyleSheet
 import json
 
 from charts import generar_todas
-
+from layout_manager import aplicar_layout
+from text_generator import generar_todos
+from data_validator import validar_todo
 """
-Versión mejorada del generador de PDF.
-Incluye gráficas y mejor estructura visual.
+Versión FINAL del generador de PDF DPRH.
+Incluye:
+- Layout profesional
+- Gráficas
+- Texto inteligente
 """
 
 OUTPUT_PDF = "reporte_dprh_v2.pdf"
@@ -56,9 +61,15 @@ def portada(story):
     story.append(Spacer(1, 40))
 
 
-def seccion_empresas(story, empresas):
+def seccion_empresas(story, empresas, textos):
+    empresas = validar_todo(empresas)
     story.append(titulo("Empresas Participantes"))
     story.append(Spacer(1, 10))
+
+    story.append(parrafo(textos['empresas']))
+    story.append(Spacer(1, 10))
+    story.append(parrafo(textos['sector']))
+    story.append(Spacer(1, 15))
 
     data = [["Empresa", "Empleados"]]
     for e in empresas:
@@ -72,12 +83,14 @@ def seccion_empresas(story, empresas):
     story.append(Spacer(1, 20))
 
 
-def seccion_sueldos(story, resultado):
+def seccion_sueldos(story, resultado, textos):
     story.append(titulo("Evaluación de Puestos"))
     story.append(Spacer(1, 10))
 
     for puesto, info in resultado.items():
         story.append(subtitulo(puesto))
+        story.append(parrafo(textos['puestos'][puesto]))
+        story.append(Spacer(1, 8))
 
         data = [
             ["Tipo", "Min", "Max", "Media", "Mediana"],
@@ -87,15 +100,17 @@ def seccion_sueldos(story, resultado):
         ]
 
         story.append(tabla(data))
-        story.append(Spacer(1, 10))
+        story.append(Spacer(1, 15))
 
     story.append(subtitulo("Distribución salarial"))
     story.append(Image("histograma_sueldos.png", width=400, height=300))
     story.append(Spacer(1, 20))
 
 
-def seccion_prestaciones(story):
+def seccion_prestaciones(story, textos):
     story.append(titulo("Prestaciones"))
+    story.append(Spacer(1, 10))
+    story.append(parrafo(textos['prestaciones']))
     story.append(Spacer(1, 10))
     story.append(Image("prestaciones.png", width=400, height=300))
     story.append(Spacer(1, 20))
@@ -104,14 +119,18 @@ def seccion_prestaciones(story):
 # GENERAR PDF
 # ==============================
 
-def generar_pdf(empresas, resultado):
+def generar_pdf(empresas, resultado, textos):
     doc = SimpleDocTemplate(OUTPUT_PDF, pagesize=letter)
+
+    # 👇 APLICAR LAYOUT
+    aplicar_layout(doc)
+
     story = []
 
     portada(story)
-    seccion_empresas(story, empresas)
-    seccion_sueldos(story, resultado)
-    seccion_prestaciones(story)
+    seccion_empresas(story, empresas, textos)
+    seccion_sueldos(story, resultado, textos)
+    seccion_prestaciones(story, textos)
 
     doc.build(story)
 
@@ -129,10 +148,15 @@ def main():
     sueldos = agrupar_sueldos(empresas, puestos_validos)
     resultado = procesar_puestos(sueldos)
 
-    # Generar gráficas antes del PDF
+    # Generar gráficas
     generar_todas(empresas, sueldos)
 
-    generar_pdf(empresas, resultado)
+    # Generar textos inteligentes
+    textos = generar_todos(empresas, resultado)
+
+    # Generar PDF
+    generar_pdf(empresas, resultado, textos)
+
     print(f"PDF generado: {OUTPUT_PDF}")
 
 
