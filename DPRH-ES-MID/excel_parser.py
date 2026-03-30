@@ -102,16 +102,29 @@ def to_int(val):
 # LECTURA Y NORMALIZACIÓN
 # ==============================
 
-def leer_excel(path=EXCEL_PATH, sheet=SHEET_NAME):
-    df = pd.read_excel(path, sheet_name=sheet)
+def obtener_nombre_empresa(path="input.xlsx"):
+    df = pd.read_excel(path, sheet_name="PlantillaCliente", header=None)
+    
+    for i in range(len(df)):
+        if "Nombre de la empresa" in str(df.iloc[i, 0]):
+            return str(df.iloc[i, 1]).strip()
 
-    # Normalizar nombres de columnas
-    df.columns = [c.strip() for c in df.columns]
+    return "Empresa"
 
-    # Validar columnas mínimas
-    faltantes = [c for c in COLUMN_MAP.keys() if c not in df.columns]
-    if faltantes:
-        print("[WARN] Faltan columnas en el Excel:", faltantes)
+def leer_excel(path="input.xlsx"):
+    print("[INFO] Leyendo Excel...")
+
+    df = pd.read_excel(
+        path,
+        sheet_name="PlantillaCliente",
+        header=1  # 🔥 CLAVE
+    )
+
+    # Limpiar columnas vacías
+    df = df.dropna(axis=1, how='all')
+
+    print("[OK] Columnas detectadas:")
+    print(df.columns.tolist())
 
     return df
 

@@ -89,7 +89,8 @@ def seccion_sueldos(story, resultado, textos):
 
     for puesto, info in resultado.items():
         story.append(subtitulo(puesto))
-        story.append(parrafo(textos['puestos'][puesto]))
+        if puesto in textos['puestos']:
+            story.append(parrafo(textos['puestos'][puesto]))
         story.append(Spacer(1, 8))
 
         data = [
@@ -152,7 +153,15 @@ def main():
     generar_todas(empresas, sueldos)
 
     # Generar textos inteligentes
-    textos = generar_todos(empresas, resultado)
+    if empresas:
+        textos = generar_todos(empresas, resultado)
+    else:
+        textos = {
+            "empresas": "No hay datos disponibles",
+            "sector": "",
+            "prestaciones": "",
+            "puestos": {}
+        }
 
     # Generar PDF
     generar_pdf(empresas, resultado, textos)
