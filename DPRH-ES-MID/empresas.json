@@ -1,3 +1,3935 @@
 {
-  "empresas": []
+  "empresas": [
+    {
+      "nombre": "ELEMENTOS Y ESTRUCTURAS METALICAS SA DE CV",
+      "sector": "",
+      "numero_empleados": 0,
+      "empleados_sindicalizados": 0,
+      "empleados_no_sindicalizados": 0,
+      "puestos": [
+        {
+          "nombre_puesto": "Director General de Grupo",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Director General / Gerente General",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 207111.0415434286,
+          "sueldo_integrado": 439985.1725714285
+        },
+        {
+          "nombre_puesto": "Director de Operaciones",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Director de Administración",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Director de Finanzas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Director de Recursos Humanos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Director de Producción",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 106835.164972,
+          "sueldo_integrado": 342119.15
+        },
+        {
+          "nombre_puesto": "Director Comercial",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Director de Sistemas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Director de Calidad",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 63513.03958526027,
+          "sueldo_integrado": 195690.15482191782
+        },
+        {
+          "nombre_puesto": "Director de Compras",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Director de Comercio Exterior / Negocios Internacionales",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Director de Mantenimiento",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Director de Alimentos y Bebidas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Planta",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Planta",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Operaciones",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Subgerente de Operaciones",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Operaciones",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 13974.272527627396,
+          "sueldo_integrado": 26412.053898238748
+        },
+        {
+          "nombre_puesto": "Jefe de Operaciones",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Operaciones",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Producción",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 23820.2715471379,
+          "sueldo_integrado": 47634.83655577299
+        },
+        {
+          "nombre_puesto": "Jefe de Producción",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asistente de Producción",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 11606.29948341644,
+          "sueldo_integrado": 22680.281069471625
+        },
+        {
+          "nombre_puesto": "Jefe de Turno de Producción",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Encargado de Area de Producción",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auditor(a) de Producción",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Producción",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 15709.65081094527,
+          "sueldo_integrado": 27662.416154924987
+        },
+        {
+          "nombre_puesto": "Coordinador de Producción",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Superintendente de Producción",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Control de Producción",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 13293.239829307242,
+          "sueldo_integrado": 29010.421268101767
+        },
+        {
+          "nombre_puesto": "Asistente de Control de Producción",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 11072.734508320937,
+          "sueldo_integrado": 20322.845499021525
+        },
+        {
+          "nombre_puesto": "Jefe de Línea de Producción",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Jefe de Línea",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Mantenimiento",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 43978.22556241096,
+          "sueldo_integrado": 89168.09573385518
+        },
+        {
+          "nombre_puesto": "Ingeniero de Mantenimiento",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Coordinador de Mantenimiento",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 13575.578324350685,
+          "sueldo_integrado": 24487.12658317025
+        },
+        {
+          "nombre_puesto": "Encargado o Responsable de Mantenimiento",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Mantenimiento",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Mantenimiento",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 15025.541137972601,
+          "sueldo_integrado": 29080.973816046964
+        },
+        {
+          "nombre_puesto": "Técnico de Mantenimiento",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Mantenimiento",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 11881.365491235618,
+          "sueldo_integrado": 23100.207096868882
+        },
+        {
+          "nombre_puesto": "Jefe de Mantenimiento Area de Costura",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Control de Calidad",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Control de Calidad",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 20105.232005961643,
+          "sueldo_integrado": 39093.32954207437
+        },
+        {
+          "nombre_puesto": "Supervisor de Control de Calidad",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 10171.80861914677,
+          "sueldo_integrado": 22498.59929549902
+        },
+        {
+          "nombre_puesto": "Jefe de Aseguramiento y Control de Calidad",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 14410.813960180822,
+          "sueldo_integrado": 28281.299363992173
+        },
+        {
+          "nombre_puesto": "Inspector de Control de Calidad",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Senior Inspector de Calidad",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Junior Inspector de Calidad",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asistente Técnico de Control de Calidad",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 11279.230581485444,
+          "sueldo_integrado": 20933.792544031312
+        },
+        {
+          "nombre_puesto": "Asistente de Control de Calidad",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Analista de Planeación",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Coordinador del Area de Corte",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Coordinadora de Instructores y Coordinadores",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Ingeniería",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 30732.579823397264,
+          "sueldo_integrado": 60298.90874755382
+        },
+        {
+          "nombre_puesto": "Jefe de Ingeniería",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Ingeniería",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Ingeniería Industrial",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ingeniero Industrial",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 12105.131565315067,
+          "sueldo_integrado": 22171.459478147422
+        },
+        {
+          "nombre_puesto": "Residente de Obra",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ingeniero de Procesos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 13389.806095035614,
+          "sueldo_integrado": 25954.392610567513
+        },
+        {
+          "nombre_puesto": "Técnico de Procesos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Procesos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Técnico Cs/Lth",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Analista de Métodos y Procedimientos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Mecánicos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Mecánico Diésel",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Mecánico Industrial",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Mecánico Soldador",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Mecánico",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Mecánico",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Operador de Trascabo",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Mecánico Automotriz",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Mecánico Automotriz",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Preparador de Auto / Detallista",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Técnico de Ingeniería de Procesos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Taller Automotriz",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Electricista Automotriz",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Suspensionista",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Electromecánico",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Electricista",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Electricista Industrial",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Electricista",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Troquelador",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Maestro Soldador",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Soldador",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Soldador",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Tornero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Tornero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Herrero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Herrero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Herrero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Hojalatería y Pintura",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Hojalatero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Pintor",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Hojalatero o Pintor",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Llantero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Llantero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Lavador de Maquinaria Industrial",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Lavador de Autos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Despachador de Gasolina",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Operador de Maquinaria Pesada",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Maquinaria Pesada",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Montacarguista",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Conductor de Transporte de Personal",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Conductor de Camión A",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Conductor de Camión A",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Conductor de Camión B",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Conductor de Camión B",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Conductor de Camión C",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Conductor de Camión C",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Conductor de Tractocamión A",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Conductor de Tractocamión A",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Conductor de Tractocamión B",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Conductor de Tractocamión B",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Conductor de Tractocamión C",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Conductor de Tractocamión C",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Conductor de Tractocamión D",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Conductor de Tractocamión D",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Envíos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Envíos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Puericultista",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Encargado de Planeación de Marcadores",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asistente de Planeador de Marcadores",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Entrenamiento",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 30151.97547359452,
+          "sueldo_integrado": 58799.41481604696
+        },
+        {
+          "nombre_puesto": "Entrenadora",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 10717.856007358903,
+          "sueldo_integrado": 22835.49222048271
+        },
+        {
+          "nombre_puesto": "Obrero Especializado",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 13866.237222398146,
+          "sueldo_integrado": 24007.76562629558
+        },
+        {
+          "nombre_puesto": "Obrero Calificado",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 12143.43,
+          "sueldo_integrado": 19746.9527556107
+        },
+        {
+          "nombre_puesto": "Obrero No Calificado",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 11090.433910951075,
+          "sueldo_integrado": 19041.9027592955
+        },
+        {
+          "nombre_puesto": "Costurero (a)",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Tablajero A",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Tablajero B",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Tablajero C",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Tablajero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe o Encargado de Aseo y Limpieza",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 11118.026196964383,
+          "sueldo_integrado": 21311.64918590998
+        },
+        {
+          "nombre_puesto": "Limpieza y Aseo (Afanador)",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 10061.635609452836,
+          "sueldo_integrado": 20232.947257012394
+        },
+        {
+          "nombre_puesto": "Jardinero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 15239.9364649863,
+          "sueldo_integrado": 29575.773816046967
+        },
+        {
+          "nombre_puesto": "Supervisor de Extrusión",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asesor de Servicio",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Servicio A",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Servicio B",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Servicio",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Técnico de Gas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar Técnico de Gas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Operador de Báscula",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Cabo de Cuadrilla",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Molinero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Macerador",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Albañil",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Tolvero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Plomero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Plomería",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Tapicero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Vidriero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Técnico en Topografía",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Carpintería",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Carpintero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Aluminiero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Zapatero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jornalero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Fumigador",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ajustadores Matriceros",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar en La Fabricación de Productos Metálicos de Hule y Plásticos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Encuestador o Codificador",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Artista del Sandwich",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Artista del Sandwich Sr",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Almacén",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Distribución y Logística",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Subgerente de Distribución y Logística",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Distribución y Logística",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Coordinador de Logística",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 11741.11687041409,
+          "sueldo_integrado": 23758.37619960861
+        },
+        {
+          "nombre_puesto": "Jefe de Almacén",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Almacén",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asistente de Almacén",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Almacenista",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 12076.940082767122,
+          "sueldo_integrado": 23120.697446183956
+        },
+        {
+          "nombre_puesto": "Estibador o Cargador",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Kardista",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 11390.415821559294,
+          "sueldo_integrado": 20390.625232876708
+        },
+        {
+          "nombre_puesto": "Jefe de Empacado",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Empacador (a)",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Coordinador de Saneamiento",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Chofer de Almacén",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Almacén de Embarques",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Coordinador de Almacén de Embarques",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Coordinador de Almacén de Empaque",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Almacén Congelados",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Almacén de Embarques",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Almacén de Empaque",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Encierros",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Coordinador de Monitoreo",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Monitorista",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Recepcionista de Unidades",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Laboratorio",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Laboratorio",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Laboratorista",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Laboratorio",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Médico Veterinario Zootecnista",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Médico Veterinario Zootecnista",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Médico de Planta",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Enfermera (o)",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 12590.416071225049,
+          "sueldo_integrado": 22293.468062622313
+        },
+        {
+          "nombre_puesto": "Gerente de Artes Gráficas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Artes Gráficas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Diseño Gráfico",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Diseñador Gráfico",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Dibujante",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Diseñador Gráfico",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Encargado de Proyectos (Dibujo Industrial)",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Serigrafista",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asistente de Dirección de Alimentos y Bebidas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Alimentos y Bebidas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Subgerente de Alimentos y Bebidas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Restaurante",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Coordinador de Restaurantes",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor o Capitán de Restaurante",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Promotor de Restaurante",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Chef",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Chef Ejecutivo",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Chef Carnicero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Carnicero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Sous Chef Ejecutivo",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Sous Chef",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Sous Chef de Banquetes",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Chef Pastelero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Pastelero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Panadero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Pastelero o Panadero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Banquetes",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Banquetes",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Decoradores de Banquetes",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Montaje",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Mesero Banquetero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Montaje",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe o  Supervisor de Cocina o Comedor",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Cocinero A",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Cocinero B",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Cocinero C",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Cocina",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Capitán de Meseros",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Mesero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Garrotero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Cantinero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Bar o Cantinero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Hostess",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Maítre",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente Comercial",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Ventas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asistente o Secretaria de Ventas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Subgerente de Ventas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Ventas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Hombre de Territorio o Jefe de Punto de Venta",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Ventas Autos Nuevos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Ventas Autos Seminuevos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Postventa",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Financiamiento Automotriz",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Refacciones",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Coordinador de Refacciones",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Vendedor de Refacciones",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Garantías",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Analista de Garantías",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asistente de Garantías",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Mercadotecnia",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asistente de Comercio Exterior",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asistente de Mercadotecnia",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Publicidad y Promoción",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Servicio al Cliente",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asistente de Servicio al Cliente",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ingeniero Vendedor Técnico",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Publicidad y Promoción",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asistente de Publicidad y Promoción",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Coordinador de Tiendas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Tienda o Sucursal Comercial",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Subgerente de Tienda o Sucursal Comercial",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Tienda",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Sección",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Encargado de Promoción Comercial",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Marca",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Depósito",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Depósito",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Pedidos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Pedidos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ejecutivo de Ventas (Vendedor Comisionista)",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Vendedor de Mostrador",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Vendedor de Piso",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Promotor (a) de Ventas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Ventas de Mostrador",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Vendedor A",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Vendedor B",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Técnico  en Relaciones Publicas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Analista de Mercado",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Sistemas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 52166.23493260274,
+          "sueldo_integrado": 107599.66307632094
+        },
+        {
+          "nombre_puesto": "Jefe de Sistemas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 19950.628669449707,
+          "sueldo_integrado": 36523.9293776908
+        },
+        {
+          "nombre_puesto": "Jefe de Sistemas y Procedimientos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asistente de Sistemas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Líder de Proyecto / Desarrollo de Sistemas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 23925.732086049313,
+          "sueldo_integrado": 46761.09140508806
+        },
+        {
+          "nombre_puesto": "Especialista de Proyectos Automatización",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Analista de Sistemas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Analista Programador",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 29435.729841545202,
+          "sueldo_integrado": 58304.28266536203
+        },
+        {
+          "nombre_puesto": "Programador",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 23026.657242213692,
+          "sueldo_integrado": 44789.0989210698
+        },
+        {
+          "nombre_puesto": "Soporte Técnico y Entrenamiento",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Soporte Técnico",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 12083.335542133333,
+          "sueldo_integrado": 23033.746345727333
+        },
+        {
+          "nombre_puesto": "Operador de Sistemas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Capturista",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 11523.485530690308,
+          "sueldo_integrado": 20380.79359099804
+        },
+        {
+          "nombre_puesto": "Gerente de Finanzas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Presupuestacion, Control Interno e Inventario Corporativo",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Contralor",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Tesorero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Contador General",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 30887.365358918196,
+          "sueldo_integrado": 59354.849870841485
+        },
+        {
+          "nombre_puesto": "Subcontador",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Contador de Costos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Analista Financiero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Costos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Inventarios",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 11450.950348770253,
+          "sueldo_integrado": 20110.037911937376
+        },
+        {
+          "nombre_puesto": "Encargado de Impuestos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Impuestos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Impuestos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Auditoria",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Auditoria",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Auditoria",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auditor",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Auditoria",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Departamento Jurídico",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Abogado Jurídico",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar Jurídico",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Crédito y Cobranza",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Crédito y Cobranza",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Analista de Crédito y Cobranza",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Crédito y Cobranza",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Facturación",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Facturación",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Encargado de Cuentas Por Pagar",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 18588.5932264908,
+          "sueldo_integrado": 34035.576500978466
+        },
+        {
+          "nombre_puesto": "Encargado de Cuentas Por Cobrar",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Cuentas Por Pagar",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Caja",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Cajero (a) General",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Cajero (a)",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Caja",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Contabilidad A",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 20690.596219652445,
+          "sueldo_integrado": 38276.33118590998
+        },
+        {
+          "nombre_puesto": "Auxiliar de Contabilidad B",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 14141.797960624135,
+          "sueldo_integrado": 24351.722500978474
+        },
+        {
+          "nombre_puesto": "Auxiliar de Cartera A",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Cartera B",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Ingresos y Egresos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Ingresos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Tesorería",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Facturista",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Archivista",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 34051.603638326415,
+          "sueldo_integrado": 96274.93419960862
+        },
+        {
+          "nombre_puesto": "Cobrador",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Contabilidad",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Técnico en Contabilidad y Finanzas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Inversiones",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Analista de Presupuestos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Planeamiento y Presupuesto",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Proyectos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Analista de Control de Proyectos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Adquisiciones y Contrataciones",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asistente de Adquisiciones y Contrataciones",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente Administrativo",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 80306.29380576515,
+          "sueldo_integrado": 217515.55907045008
+        },
+        {
+          "nombre_puesto": "Jefe Administrativo",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar Administrativo",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asistente de Dirección General",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 27531.579117241487,
+          "sueldo_integrado": 52415.889953033264
+        },
+        {
+          "nombre_puesto": "Asistente de Dirección",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asistente de Gerencia",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Compras",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Subgerente de Compras",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asistente de Compras",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Compras",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Comprador Internacional Senior",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Comprador Internacional Junior",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Comprador",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 18307.03603586067,
+          "sueldo_integrado": 33147.730610567516
+        },
+        {
+          "nombre_puesto": "Secretaria de Dirección",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Secretaria de Gerencia",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Secretaria Bilingüe",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Secretaria de Departamento",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Secretaria Recepcionista Telefonista",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Recepcionista Bilingüe",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Secretaria",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Encargado de Fotocopiadoras",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Importación y Exportación",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Importación y Exportación",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asistente de Importación y Exportación",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 11072.734508320937,
+          "sueldo_integrado": 20322.845499021525
+        },
+        {
+          "nombre_puesto": "Gerente de Tráfico",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 30537.870276605874,
+          "sueldo_integrado": 60581.9693776908
+        },
+        {
+          "nombre_puesto": "Jefe de Tráfico",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asistente de Tráfico",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 11072.734508320937,
+          "sueldo_integrado": 20322.845499021525
+        },
+        {
+          "nombre_puesto": "Supervisor de Tráfico",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Combustible",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar Administrativo de Tráfico",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 13248.89647160861,
+          "sueldo_integrado": 23562.31902152642
+        },
+        {
+          "nombre_puesto": "Jefe de Flota",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Flota",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar Administrativo de Flota",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Embarques",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor Embarques",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Supervisor de Embarques",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Recepción de Embarques",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Seguridad y Protección",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Seguridad y Protección",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 25052.82961682505,
+          "sueldo_integrado": 46147.881103718195
+        },
+        {
+          "nombre_puesto": "Supervisor de Seguridad y Protección",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 16479.73294781683,
+          "sueldo_integrado": 29869.40022700587
+        },
+        {
+          "nombre_puesto": "Coordinador de Seguridad",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Supervisor de Seguridad",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Diligenciero o Estafeta",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 14888.106665351075,
+          "sueldo_integrado": 26387.551117416828
+        },
+        {
+          "nombre_puesto": "Jefe de Vigilantes",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Vigilante (Portero,Velador,Caseta)",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 11837.51,
+          "sueldo_integrado": 20907.167292759295
+        },
+        {
+          "nombre_puesto": "Gerente de Recursos Humanos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asistente de Recursos Humanos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 11812.35524699491,
+          "sueldo_integrado": 20581.26376125245
+        },
+        {
+          "nombre_puesto": "Jefe de Personal",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Personal",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Relaciones Públicas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asistente o Secretaria de Relaciones Públicas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Coordinador de Eventos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Asuntos Jurídicos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Nóminas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Coordinador de Nóminas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Nominista",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 21867.294990962037,
+          "sueldo_integrado": 40840.831514677106
+        },
+        {
+          "nombre_puesto": "Auxiliar de Nóminas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Impuestos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Compensaciones y Beneficios",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Compensaciones y Beneficios",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Capacitación y Desarrollo",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 13215.7788157182,
+          "sueldo_integrado": 23447.21929549902
+        },
+        {
+          "nombre_puesto": "Jefe de Reclutamiento y Selección de Personal",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Asistente de Reclutamiento y Selección de Personal",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 11408.293931005872,
+          "sueldo_integrado": 19858.772583170256
+        },
+        {
+          "nombre_puesto": "Facilitador de Calidad",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Seguridad e Higiene",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 15744.323953093543,
+          "sueldo_integrado": 28358.67407632094
+        },
+        {
+          "nombre_puesto": "Coordinador de Seguridad e Higiene",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 22264.380464967515,
+          "sueldo_integrado": 41540.799131115455
+        },
+        {
+          "nombre_puesto": "Gerente de Crianza Engorda",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente Técnico Veterinario",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente Relación Con Integrad",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe Aguas Residuales",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Maternidad",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Granja",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor de Granja",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Encargado de Granja",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Ayudante de Granja",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Velador de Granja",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe Servicios de Soporte",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Campo",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Plantaciones",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Producción Crianza y Engorda",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Analista de Gastos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Analista Técnico",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Encargado de Nave",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Especialista en Refrigeración",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gestantero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Inseminador",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Inspector Zoosanitario",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Maternero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Maternero Velador",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Nutriólogo",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Partero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Representante ISO",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor Aguas Residuales",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor Central Lavado",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor Control Procesos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor Engordas",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor Relación Integrado",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor Técnico Veterinario",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor Eléctrico",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Plantación",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor Plantaciones Riego",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Polinización",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Vivero",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe Genético",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe de Gestión Ambiental",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Jefe Tecnológico",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Coordinador Ventas Vivo",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Especialista en Aguas Residuales",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Coordinador Refrigeración",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor Sanidad",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Supervisor Picking",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar de Cámara Frescos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Auxiliar Tif",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Especialista en Automatización",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 15267.308844649704,
+          "sueldo_integrado": 27453.710117416827
+        },
+        {
+          "nombre_puesto": "Operador Carton Freezer",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Gerente de Abasto",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Coordinador Control Interno",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Puesto",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 0.0,
+          "sueldo_integrado": 0.0
+        },
+        {
+          "nombre_puesto": "Coordinador de Desarrollo Humano",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 17614.361826457924,
+          "sueldo_integrado": 32043.640802348335
+        },
+        {
+          "nombre_puesto": "Encargado de Administración de Personal",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 12753.109056759295,
+          "sueldo_integrado": 22595.185898238746
+        },
+        {
+          "nombre_puesto": "Project Mánager",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 41107.86176200861,
+          "sueldo_integrado": 81920.80948727985
+        },
+        {
+          "nombre_puesto": "Desarrollador De Software Junior",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 11560.995466600392,
+          "sueldo_integrado": 21189.350457925637
+        },
+        {
+          "nombre_puesto": "Editor De Contenido",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 15372.4342095045,
+          "sueldo_integrado": 27681.76419960861
+        },
+        {
+          "nombre_puesto": "Gerente De Innovación E Industria 4.0",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 38511.71703009628,
+          "sueldo_integrado": 74339.83699412916
+        },
+        {
+          "nombre_puesto": "Diseñador Cad",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 26737.69555250724,
+          "sueldo_integrado": 50042.029350293546
+        },
+        {
+          "nombre_puesto": "Diseñador Cad 3D",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 14171.821737526418,
+          "sueldo_integrado": 25235.069432485318
+        },
+        {
+          "nombre_puesto": "Coordinador CAD",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 11987.390395992174,
+          "sueldo_integrado": 21847.53084148728
+        },
+        {
+          "nombre_puesto": "Coordinador de Experiencia del Asociado",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 17999.30164738943,
+          "sueldo_integrado": 32783.375596868886
+        },
+        {
+          "nombre_puesto": "Gerente Senior de Recursos Humanos",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 45159.83823758122,
+          "sueldo_integrado": 89103.88192563601
+        },
+        {
+          "nombre_puesto": "Supervisor Soporte de Gerencia",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 12442.459906293543,
+          "sueldo_integrado": 22000.77173385519
+        },
+        {
+          "nombre_puesto": "Jefa De Diseño",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 47778.91390229355,
+          "sueldo_integrado": 95390.29291193737
+        },
+        {
+          "nombre_puesto": "Jefa De Diseño 3D",
+          "area": "",
+          "empleados_en_puesto": 0,
+          "sueldo_bruto": 0.0,
+          "sueldo_neto": 34802.5441232908,
+          "sueldo_integrado": 66292.33677495108
+        }
+      ],
+      "prestaciones": {
+        "dias_adicionales": 0,
+        "dias_vacaciones": 0,
+        "prima_vacacional": 0,
+        "aguinaldo": 0,
+        "seguro_vida": false,
+        "seguro_gastos_medicos": false,
+        "fondo_ahorro": false,
+        "bonos": false,
+        "utilidades": false,
+        "comedor": false,
+        "transporte": false,
+        "vales": false,
+        "prevision_social": false
+      },
+      "rotacion": {
+        "anual": 0,
+        "30_dias": 0,
+        "90_dias": 0,
+        "180_dias": 0
+      },
+      "contrato_colectivo": {
+        "tiene": false,
+        "sindicato": "",
+        "aumento_salarial": 0
+      }
+    }
+  ]
 }

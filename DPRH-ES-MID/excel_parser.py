@@ -1,77 +1,30 @@
 import pandas as pd
 import json
-from collections import defaultdict
-
-"""
-Este script lee un archivo Excel con información de múltiples empresas y lo
-transforma a la estructura requerida por main.py (empresas.json).
-
-Suposiciones del Excel (puedes ajustar los nombres de columnas abajo):
-- Una sola hoja con todas las empresas (o especifica sheet_name)
-- Columnas esperadas:
-    Empresa, Sector, Puesto, Area, EmpleadosPuesto,
-    SueldoBruto, SueldoNeto, SueldoIntegrado,
-    NumEmpleadosEmpresa, Sindicalizados, NoSindicalizados,
-    Aguinaldo, PrimaVacacional, DiasVacaciones,
-    SeguroVida, SeguroGastosMedicos, FondoAhorro,
-    Bonos, Utilidades, Comedor, Transporte, Vales, PrevisionSocial,
-    RotacionAnual, Rotacion30, Rotacion90, Rotacion180,
-    TieneContrato, Sindicato, AumentoSalarial
-
-Puedes mapear/renombrar columnas en el diccionario COLUMN_MAP.
-"""
 
 # ==============================
-# CONFIGURACIÓN
+# CONFIG
 # ==============================
 
 EXCEL_PATH = "input.xlsx"
 OUTPUT_JSON = "empresas.json"
-SHEET_NAME = 0  # o nombre de hoja
-
-# Mapeo de columnas del Excel a claves internas
-COLUMN_MAP = {
-    "Empresa": "empresa",
-    "Sector": "sector",
-    "Puesto": "puesto",
-    "Area": "area",
-    "EmpleadosPuesto": "empleados_puesto",
-    "SueldoBruto": "bruto",
-    "SueldoNeto": "neto",
-    "SueldoIntegrado": "integrado",
-    "NumEmpleadosEmpresa": "num_emp",
-    "Sindicalizados": "sind",
-    "NoSindicalizados": "nosind",
-    "Aguinaldo": "aguinaldo",
-    "PrimaVacacional": "prima",
-    "DiasVacaciones": "vacaciones",
-    "SeguroVida": "seg_vida",
-    "SeguroGastosMedicos": "sgmm",
-    "FondoAhorro": "fondo",
-    "Bonos": "bonos",
-    "Utilidades": "util",
-    "Comedor": "comedor",
-    "Transporte": "transporte",
-    "Vales": "vales",
-    "PrevisionSocial": "prev",
-    "RotacionAnual": "rot_anual",
-    "Rotacion30": "rot30",
-    "Rotacion90": "rot90",
-    "Rotacion180": "rot180",
-    "TieneContrato": "contrato",
-    "Sindicato": "sindicato",
-    "AumentoSalarial": "aumento"
-}
 
 # ==============================
 # UTILIDADES
 # ==============================
 
+def obtener_hoja(path):
+    xls = pd.ExcelFile(path)
+    return xls.sheet_names[0]  # usa la primera hoja
+
+def limpiar_texto(s):
+    if pd.isna(s):
+        return ""
+    return str(s).strip()
+
+
 def to_bool(val):
     if pd.isna(val):
         return False
-    if isinstance(val, bool):
-        return val
     val = str(val).strip().lower()
     return val in ["1", "true", "si", "sí", "yes", "x"]
 
@@ -80,14 +33,9 @@ def to_float(val):
     if pd.isna(val):
         return 0.0
     try:
-        return float(val)
-    except Exception:
-        # limpiar posibles símbolos
-        s = str(val).replace(",", "").replace("$", "").strip()
-        try:
-            return float(s)
-        except Exception:
-            return 0.0
+        return float(str(val).replace(",", "").replace("$", ""))
+    except:
+        return 0.0
 
 
 def to_int(val):
@@ -95,101 +43,136 @@ def to_int(val):
         return 0
     try:
         return int(float(val))
-    except Exception:
+    except:
         return 0
 
 # ==============================
-# LECTURA Y NORMALIZACIÓN
+# EXTRAER NOMBRE EMPRESA
 # ==============================
 
-def obtener_nombre_empresa(path="input.xlsx"):
-    df = pd.read_excel(path, sheet_name="PlantillaCliente", header=None)
-    
-    for i in range(len(df)):
-        if "Nombre de la empresa" in str(df.iloc[i, 0]):
-            return str(df.iloc[i, 1]).strip()
+def obtener_nombre_empresa(path):
+    try:
+        sheet = obtener_hoja(path)
+        df = pd.read_excel(path, sheet_name=sheet, header=None)
+
+        for i in range(len(df)):
+            val = str(df.iloc[i, 0]).lower()
+            if "nombre de la empresa" in val:
+                return str(df.iloc[i, 2]).strip()
+
+    except Exception as e:
+        print(f"[WARN] No se pudo leer nombre empresa: {e}")
 
     return "Empresa"
 
-def leer_excel(path="input.xlsx"):
+# ==============================
+# LEER EXCEL REAL
+# ==============================
+
+def leer_excel(path):
     print("[INFO] Leyendo Excel...")
 
-    df = pd.read_excel(
-        path,
-        sheet_name="PlantillaCliente",
-        header=1  # 🔥 CLAVE
-    )
+    sheet = obtener_hoja(path)
 
-    # Limpiar columnas vacías
-    df = df.dropna(axis=1, how='all')
+    # Intentar diferentes filas como encabezado
+    for header_row in [2, 3, 4, 5]:
+        try:
+            df = pd.read_excel(path, sheet_name=sheet, header=header_row)
 
-    print("[OK] Columnas detectadas:")
-    print(df.columns.tolist())
+            df = df.dropna(axis=1, how='all')
+            df.columns = [str(c).strip() for c in df.columns]
 
-    return df
+            # Validar si parece tabla real
+            columnas = " ".join(df.columns).lower()
 
-# ==============================
-# TRANSFORMACIÓN A ESTRUCTURA
-# ==============================
+            if "puesto" in columnas or "sueldo" in columnas:
+                print(f"[OK] Header detectado en fila {header_row}")
+                print(df.columns.tolist())
+                return df
 
-def construir_empresas(df: pd.DataFrame):
-    empresas_dict = {}
-
-    for _, row in df.iterrows():
-        empresa_nombre = str(row.get("Empresa", "")).strip()
-        if not empresa_nombre:
+        except:
             continue
 
-        # Crear empresa si no existe
-        if empresa_nombre not in empresas_dict:
-            empresas_dict[empresa_nombre] = {
-                "nombre": empresa_nombre,
-                "sector": str(row.get("Sector", "")).strip(),
-                "numero_empleados": to_int(row.get("NumEmpleadosEmpresa")),
-                "empleados_sindicalizados": to_int(row.get("Sindicalizados")),
-                "empleados_no_sindicalizados": to_int(row.get("NoSindicalizados")),
-                "puestos": [],
-                "prestaciones": {
-                    "dias_adicionales": 0,
-                    "dias_vacaciones": to_int(row.get("DiasVacaciones")),
-                    "prima_vacacional": to_float(row.get("PrimaVacacional")),
-                    "aguinaldo": to_int(row.get("Aguinaldo")),
-                    "seguro_vida": to_bool(row.get("SeguroVida")),
-                    "seguro_gastos_medicos": to_bool(row.get("SeguroGastosMedicos")),
-                    "fondo_ahorro": to_bool(row.get("FondoAhorro")),
-                    "bonos": to_bool(row.get("Bonos")),
-                    "utilidades": to_bool(row.get("Utilidades")),
-                    "comedor": to_bool(row.get("Comedor")),
-                    "transporte": to_bool(row.get("Transporte")),
-                    "vales": to_bool(row.get("Vales")),
-                    "prevision_social": to_bool(row.get("PrevisionSocial"))
-                },
-                "rotacion": {
-                    "anual": to_float(row.get("RotacionAnual")),
-                    "30_dias": to_float(row.get("Rotacion30")),
-                    "90_dias": to_float(row.get("Rotacion90")),
-                    "180_dias": to_float(row.get("Rotacion180"))
-                },
-                "contrato_colectivo": {
-                    "tiene": to_bool(row.get("TieneContrato")),
-                    "sindicato": str(row.get("Sindicato", "")),
-                    "aumento_salarial": to_float(row.get("AumentoSalarial"))
-                }
-            }
+    print("[WARN] No se pudo detectar estructura válida")
+    return pd.DataFrame()
 
-        # Agregar puesto
-        puesto_nombre = str(row.get("Puesto", "")).strip()
-        if puesto_nombre:
-            empresas_dict[empresa_nombre]["puestos"].append({
-                "nombre_puesto": puesto_nombre,
-                "area": str(row.get("Area", "")).strip(),
-                "empleados_en_puesto": to_int(row.get("EmpleadosPuesto")),
-                "sueldo_bruto": to_float(row.get("SueldoBruto")),
-                "sueldo_neto": to_float(row.get("SueldoNeto")),
-                "sueldo_integrado": to_float(row.get("SueldoIntegrado"))
-            })
+# ==============================
+# MAPEO FLEXIBLE
+# ==============================
 
-    return list(empresas_dict.values())
+def obtener_columna(df, posibles_nombres):
+    for nombre in posibles_nombres:
+        for col in df.columns:
+            if nombre.lower() in col.lower():
+                return col
+    return None
+
+# ==============================
+# CONSTRUIR EMPRESA
+# ==============================
+
+def construir_empresas(df, nombre_empresa):
+    empresas = []
+
+    sector_col = obtener_columna(df, ["sector"])
+    puesto_col = obtener_columna(df, ["puesto"])
+    area_col = obtener_columna(df, ["area"])
+    empleados_puesto_col = obtener_columna(df, ["empleados"])
+    bruto_col = obtener_columna(df, ["bruto"])
+    neto_col = obtener_columna(df, ["neto"])
+    integrado_col = obtener_columna(df, ["integrado"])
+
+    empresa = {
+        "nombre": nombre_empresa,
+        "sector": limpiar_texto(df[sector_col].iloc[0]) if sector_col else "",
+        "numero_empleados": 0,
+        "empleados_sindicalizados": 0,
+        "empleados_no_sindicalizados": 0,
+        "puestos": [],
+        "prestaciones": {
+            "dias_adicionales": 0,
+            "dias_vacaciones": 0,
+            "prima_vacacional": 0,
+            "aguinaldo": 0,
+            "seguro_vida": False,
+            "seguro_gastos_medicos": False,
+            "fondo_ahorro": False,
+            "bonos": False,
+            "utilidades": False,
+            "comedor": False,
+            "transporte": False,
+            "vales": False,
+            "prevision_social": False
+        },
+        "rotacion": {
+            "anual": 0,
+            "30_dias": 0,
+            "90_dias": 0,
+            "180_dias": 0
+        },
+        "contrato_colectivo": {
+            "tiene": False,
+            "sindicato": "",
+            "aumento_salarial": 0
+        }
+    }
+
+    for _, row in df.iterrows():
+        puesto = limpiar_texto(row.get(puesto_col))
+        if not puesto:
+            continue
+
+        empresa["puestos"].append({
+            "nombre_puesto": puesto,
+            "area": limpiar_texto(row.get(area_col)),
+            "empleados_en_puesto": to_int(row.get(empleados_puesto_col)),
+            "sueldo_bruto": to_float(row.get(bruto_col)),
+            "sueldo_neto": to_float(row.get(neto_col)),
+            "sueldo_integrado": to_float(row.get(integrado_col))
+        })
+
+    empresas.append(empresa)
+    return empresas
 
 # ==============================
 # GUARDAR JSON
@@ -205,19 +188,18 @@ def guardar_json(empresas, path=OUTPUT_JSON):
 # ==============================
 
 def main():
-    print("[INFO] Leyendo Excel...")
-    df = leer_excel()
+    nombre_empresa = obtener_nombre_empresa(EXCEL_PATH)
 
-    print("[INFO] Construyendo estructura de empresas...")
-    empresas = construir_empresas(df)
+    df = leer_excel(EXCEL_PATH)
+
+    print("[INFO] Construyendo empresa...")
+    empresas = construir_empresas(df, nombre_empresa)
 
     print(f"[INFO] Empresas procesadas: {len(empresas)}")
 
-    print("[INFO] Guardando JSON...")
     guardar_json(empresas)
 
-    print(f"[OK] Archivo generado: {OUTPUT_JSON}")
-
+    print("[OK] JSON generado correctamente")
 
 if __name__ == '__main__':
     main()
